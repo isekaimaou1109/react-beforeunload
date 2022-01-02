@@ -1,0 +1,1 @@
+**this is the package is inspired from react-beforeunload and it support for safari browser as well**

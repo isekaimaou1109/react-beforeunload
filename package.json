@@ -1,0 +1,23 @@
+{
+  "name": "react-beforeunload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "keywords": [
+    "beforeunload",
+    "event",
+    "hook",
+    "onbeforeunload",
+    "react",
+    "unload"
+  ],
+  "author": "yoki <nhat11092000@gmail.com>",
+  "homepage": "https://github.com/isekaimaou1109/react-beforeunload.git#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isekaimaou1109/react-beforeunload.git"
+  }
+}
